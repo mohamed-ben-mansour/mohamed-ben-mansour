@@ -13,22 +13,27 @@ I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always lea
 
 ---
 
-### What I do:
+## What I do:
+---
+
 - 🤖 Develop AI models for real-world applications  
 - 💻 Build software that integrates AI into daily workflows  
 - 📊 Experiment with data-driven solutions  
 - 🏋️‍♂️ Stay active and enjoy fitness outside coding
 
+
+
+## Highlights:
 ---
 
-### Highlights:
 - 🎓 Currently diving deeper into deep learning and ML deployment  
 - 💡 Interested in system design and scalable AI applications  
 - 🤝 Open to collaboration and new projects  
 
----
 
-### ⚡️ GitHub Stats
+
+## ⚡️ GitHub Stats
+---
 
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-ben-mansour&show_icons=true&theme=radical)
 
