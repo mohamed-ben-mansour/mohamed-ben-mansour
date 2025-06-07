@@ -4,14 +4,14 @@
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mohamedbenmansour70@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/mohamed-ben-mansour)
 
----
+
 
 ![Friendly wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 I’m an AI engineering student passionate about building **practical AI projects** that improve everyday life — not just hype.  
 I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always learning new ways to turn ideas into real solutions.
 
----
+
 
 ## What I do:
 
@@ -42,7 +42,6 @@ I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always lea
 
 📫 Feel free to reach out anytime: **mohamedbenmansour70@gmail.com**
 
----
 
 Thank you for visiting my profile!
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamed-ben-mansour&style=flat-square&color=blue)
