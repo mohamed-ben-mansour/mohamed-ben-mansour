@@ -14,6 +14,7 @@ I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always lea
 
 
 ## What I do:
+
 ---
 
 - 🤖 Develop AI models for real-world applications  
@@ -24,6 +25,7 @@ I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always lea
 
 
 ## Highlights:
+
 ---
 
 - 🎓 Currently diving deeper into deep learning and ML deployment  
@@ -33,6 +35,7 @@ I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always lea
 
 
 ## ⚡️ GitHub Stats
+
 ---
 
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-ben-mansour&show_icons=true&theme=radical)
