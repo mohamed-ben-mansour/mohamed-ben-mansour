@@ -6,14 +6,25 @@
 
 ---
 
-🎓 I'm an AI engineering student passionate about using artificial intelligence to solve real-world problems.
+![Friendly wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-🧠 I enjoy working with technologies like Python, TensorFlow, and Scikit-learn.  
-🌱 Currently exploring deep learning, ML ops, and AI-driven applications.  
-📚 I like learning about clean architecture, ethical AI, and system design.  
-🏁 Also exploring competitive programming and automation projects.
+I’m an AI engineering student passionate about building **practical AI projects** that improve everyday life — not just hype.  
+I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always learning new ways to turn ideas into real solutions.
 
-📫 Reach me at: **mohamedbenmansour70@gmail.com**
+---
+
+### What I do:
+- 🤖 Develop AI models for real-world applications  
+- 💻 Build software that integrates AI into daily workflows  
+- 📊 Experiment with data-driven solutions  
+- 🏋️‍♂️ Stay active and enjoy fitness outside coding
+
+---
+
+### Highlights:
+- 🎓 Currently diving deeper into deep learning and ML deployment  
+- 💡 Interested in system design and scalable AI applications  
+- 🤝 Open to collaboration and new projects  
 
 ---
 
@@ -22,3 +33,11 @@
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-ben-mansour&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ben-mansour&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ben-mansour&theme=radical)
+
+---
+
+📫 Feel free to reach out anytime: **mohamedbenmansour70@gmail.com**
+
+---
+
+Thank you for visiting my profile!
