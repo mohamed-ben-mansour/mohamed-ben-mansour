@@ -31,7 +31,7 @@ I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always lea
 ### ⚡️ GitHub Stats
 
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-ben-mansour&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ben-mansour&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ben-mansour&theme=radical)
 
 ---
