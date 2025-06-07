@@ -41,3 +41,4 @@ I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always lea
 ---
 
 Thank you for visiting my profile!
+![Profile Views](https://komarev.com/ghpvc/?username=mohamed-ben-mansour&style=flat-square&color=blue)
