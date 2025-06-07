@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed 👋
+# Hi there, I'm Mohamed 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ben-mansour-345881318/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mohamedbenmansour70@gmail.com)
