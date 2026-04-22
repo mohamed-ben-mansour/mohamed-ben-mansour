@@ -10,7 +10,8 @@
 
 I’m an AI engineering student passionate about building **practical AI projects** that improve everyday life.  
 I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always learning new ways to turn ideas into real solutions.
-
+Here is my Portfolio 
+https://portfolio-fawn-six-80.vercel.app
 
 
 ## What I do:
@@ -27,7 +28,7 @@ I’m skilled with Python, TensorFlow, PyTorch, and scikit-learn, and always lea
 ## Highlights:
 
 
-- 🎓 Currently diving deeper into deep learning and ML deployment  
+- 🎓 Currently diving deeper into deep learning ,AI agents and ML deployment  
 - 💡 Interested in system design and scalable AI applications  
 - 🤝 Open to collaboration and new projects  
 
